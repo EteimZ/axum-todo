@@ -7,8 +7,8 @@ A todo list app built with [Axum](https://crates.io/crates/axum). It serves as a
 Run the following command to get started:
 
 ```bash
-git clone repo
-cd repo
+git clone https://github.com/EteimZ/axum-todo.git
+cd axum-todo
 cargo run
 ```
 
